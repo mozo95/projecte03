@@ -7,6 +7,7 @@ Allows the user to specify the following options:
 1. -d Deletes accounts instead of disabling them.
 2. -r Removes the home directory associated with the account(s).
 3. -a Creates an archive of the home directory associated with the accounts(s) and stores the archive in the /home/ARCHIVE_DIR directory. 
+
 Any other option will cause the script to display a usage statement and exit with an exit status of 1.
 
 
